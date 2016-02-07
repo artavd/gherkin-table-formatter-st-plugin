@@ -1,0 +1,19 @@
+### Python template
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+### JetBrains template
+*.iml
+
+## Directory-based project format:
+.idea/
+
+## File-based project format:
+*.ipr
+*.iws
+
+### Sublime Projects ###
+*.sublime-project
+*.sublime-workspace
